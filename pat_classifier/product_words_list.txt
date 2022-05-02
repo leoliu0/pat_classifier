@@ -1,7 +1,6 @@
-composition 10092
-computer system 0
-gaming system 0
-medical system 0
+computer_system 0
+gaming_system 0
+medical_system 0
 metals 0
 probe 0
 assemblies 9194
@@ -1299,7 +1298,6 @@ headlight 69
 microcomputer 69
 naphthalene 68
 toluene 68
-shunt 68
 expander 68
 metabolite 68
 collimator 68
