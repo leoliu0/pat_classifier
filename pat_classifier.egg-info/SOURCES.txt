@@ -1,0 +1,16 @@
+setup.py
+pat_classifier/__additional_proc_words.txt
+pat_classifier/__init__.py
+pat_classifier/_word_list.py
+pat_classifier/all_word_list.txt
+pat_classifier/claim.py
+pat_classifier/ing.txt
+pat_classifier/more_proc_words.txt
+pat_classifier/process_word_list.txt
+pat_classifier/product_words_list.txt
+pat_classifier/title.py
+pat_classifier.egg-info/PKG-INFO
+pat_classifier.egg-info/SOURCES.txt
+pat_classifier.egg-info/dependency_links.txt
+pat_classifier.egg-info/requires.txt
+pat_classifier.egg-info/top_level.txt

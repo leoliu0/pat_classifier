@@ -7,7 +7,7 @@ setup(
     author="Leo Liu",
     #  author_email='gward@python.net',
     #  url='https://www.python.org/sigs/distutils-sig/',
+    install_requires=["wordcloud"],
     packages=["pat_classifier"],
     package_data={"pat_classifier": ["*.txt"]},
-    install_requires=["wordcloud", "loguru", "pyspark", "pandas"],
 )
