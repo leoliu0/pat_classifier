@@ -2,6 +2,8 @@
 
 Python package to classify patents into process and product based on titles and claims
 
+For deep-learning based method for titles, visit https://huggingface.co/leoliu/pat_classifier_distilbert
+
 ## Change log v20230126:
 - changed to a pure python implementation rather than spark
 - Expand the transitional phrase / Update the parsing logic for the procedure to obtain preamble for claims, keywords for titles
