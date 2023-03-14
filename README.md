@@ -1,6 +1,6 @@
 # pat_classifier
 
-Python package to classify patents into process and product based on titles and claims
+Python package to classify patents into process and product based on titles and claims. Usage guide coming soon.
 
 For deep-learning based method for titles, visit https://huggingface.co/leoliu/pat_classifier_distilbert
 
